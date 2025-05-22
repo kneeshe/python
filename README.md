@@ -1,2 +1,2 @@
-# pyEst
-Repositorio para os codigos na linguagem Python
+# Python
+## Repositorio para os codigos na linguagem Python
